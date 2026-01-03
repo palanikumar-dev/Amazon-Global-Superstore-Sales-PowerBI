@@ -66,4 +66,4 @@ Data visualization, dashboard creation, interactive reporting.
 
 * Provided insights into profit margins by product category.
 
-Delivered an interactive Power BI dashboard that improved decision-making speed.
+* Delivered an interactive Power BI dashboard that improved decision-making speed.
